@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Flexicon/local-wolf-girl#readme",
   "dependencies": {
-    "discord.io": "^2.3.0"
+    "discord.io": "^2.3.0",
+    "request": "^2.79.0"
   }
 }
