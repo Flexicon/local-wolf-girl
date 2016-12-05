@@ -1,0 +1,30 @@
+{
+  "name": "local-wolf-girl",
+  "version": "1.0.0",
+  "description": "Local wolf girl Discord bot",
+  "main": "local-wolf-girl.js",
+  "scripts": {
+    "start": "nodemon local-wolf-girl",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flexicon/local-wolf-girl.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "wolf",
+    "girl",
+    "monster"
+  ],
+  "author": "Flexicon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flexicon/local-wolf-girl/issues"
+  },
+  "homepage": "https://github.com/Flexicon/local-wolf-girl#readme",
+  "dependencies": {
+    "discord.io": "^2.3.0"
+  }
+}
